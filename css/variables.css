@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Montserrat Regular';
+  src: url("../assets/fonts/Montserrat/Montserrat-Regular.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Montserrat Bold';
+  src: url("../assets/fonts/Montserrat/Montserrat-Bold.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Montserrat Light';
+  src: url("../assets/fonts/Montserrat/Montserrat-Light.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Montserrat Medium';
+  src: url("../assets/fonts/Montserrat/Montserrat-Medium.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Montserrat SemiBold';
+  src: url("../assets/fonts/Montserrat/Montserrat-SemiBold.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Forum';
+  src: url("../assets/fonts/Forum-Regular.ttf") format("opentype");
+}
+
+:root {
+  --black: #272727;
+  --white: #ffff;
+  --gray: #c4c4c4;
+  --gold: #efc58b;
+}
